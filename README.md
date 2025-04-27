@@ -1,24 +1,30 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sakyqr&label=Profile%20views&color=0e75b6&style=flat" alt="sakyqr" /> 
+<h1 align="center">Welcome to my GitHub Profile!</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakyqr&label=Profile%20views&color=0e75b6&style=flat" alt="sakyqr" />
 </p>
-
-- 🔭 **Currently working on**: CelestiaCaptcha, Horsecombat revamped, & HorseplowAgain
-- 🎓 **Currently learning**: Python
-- 📫 **How to reach me**: SakyQ-Discord
 
 ---
 
-### Connect with me:
-<p align="left">
+- 🔭 **Currently working on**: CelestiaCaptcha, Horsecombat revamped, & HorseplowAgain
+- 🎓 **Currently learning**: Python
+- 📫 **How to reach me**: [SakyQ-Discord](https://discord.com/users/762992222848679949)
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://discord.com/users/762992222848679949" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sakyq" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SakyQ" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/abhisheknaiidu">
+    <img align="center" src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-### Languages and Tools:
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -41,3 +47,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/sakyqr">
+    <img src="https://img.shields.io/github/stars/sakyqr?style=social" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/sakyqr">
+    <img src="https://img.shields.io/github/forks/sakyqr?style=social" alt="GitHub forks"/>
+  </a>
+  <a href="https://github.com/sakyqr">
+    <img src="https://img.shields.io/github/issues/sakyqr?style=social" alt="GitHub issues"/>
+  </a>
+</p>
+
