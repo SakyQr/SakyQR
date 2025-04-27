@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakyqr&label=Profile%20views&color=0e75b6&style=flat" alt="sakyqr" /> </p>
 
-- 🔭 I’m currently working on **SpeciesAGAIN-Plugin**
+- 🔭 I’m currently working on **CelestiaCaptcha & Horsecombat revamped % HorseplowAgain**
 
 - 🎓I'm currently learning **Python**
 
