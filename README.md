@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: CelestiaCaptcha, Horsecombat revamped, & HorseplowAgain<br>🎓 Currently learning: Python<br>📫 How to reach me: SakyQ-Discord<br><br>Main langauges Kotlin <br><br>side langauge React Vue html java<br>
+🔭 Currently working on: CelestiaCaptcha, Horsecombat revamped, & HorseplowAgain<br>🎓 Currently learning: Python<br>📫 How to reach me: SakyQ-Discord<br>
 
 
 ## 🌐 Socials:
