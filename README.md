@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: CelestiaCaptcha, Horsecombat revamped, & HorseplowAgain<br>🎓 Currently learning: Python<br>📫 How to reach me: SakyQ-Discord<br>
+🔭 Currently working on: Boltlink a quick way to link MC accounts to discord accounts! <br>🎓 Currently learning: Python<br>📫 How to reach me: SakyQ-Discord<br>
 
 
 ## 🌐 Socials:
