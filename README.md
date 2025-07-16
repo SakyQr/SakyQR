@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 Currently working on: Boltlink a quick way to link MC accounts to discord accounts! <br>🎓 Currently learning: Python<br>📫 How to reach me: SakyQ-Discord<br>
 
 
 ## 🌐 Socials:
