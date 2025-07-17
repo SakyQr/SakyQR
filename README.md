@@ -8,6 +8,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sakyqr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakyqr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🤝 Collaborations
+
+### 🚀 Currently working with [Altivox.net](https://altivox.net)
+
+<p align="center">
+  <img width="480" height="270" alt="altivox111" src="https://github.com/user-attachments/assets/be0d3e5b-4425-41e6-9077-f6ea07ddfe5c" />
+  <br/>
+  <a href="https://altivox.net" target="_blank">
+    <img src="https://img.shields.io/badge/Currently_Working_With-Altivox.net-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Altivox Badge"/>
+  </a>
+</p>
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sakyqr&icon=0&color=0)](https://visitcount.itsvg.in)
 
