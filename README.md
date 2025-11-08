@@ -10,17 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sakyqr)
 
-## 🤝 Collaborations
-
-### 🚀 Currently working with [Altivox.net](https://altivox.net)
-
-<p align="center">
-  <img width="480" height="270" alt="altivox111" src="https://github.com/user-attachments/assets/be0d3e5b-4425-41e6-9077-f6ea07ddfe5c" />
-  <br/>
-  <a href="https://altivox.net" target="_blank">
-    <img src="https://img.shields.io/badge/Currently_Working_With-Altivox.net-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Altivox Badge"/>
-  </a>
-</p>
 
 
 
